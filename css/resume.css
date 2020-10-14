@@ -93,6 +93,11 @@ p.lead {
   outline-color: #d48a6e;
 }
 
+.proj-image{
+  height: 3rem;
+  width: 3rem;
+}
+
 @media (min-width: 992px) {
   #sideNav {
     text-align: center;
