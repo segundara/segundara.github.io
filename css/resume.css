@@ -100,15 +100,15 @@ p.lead {
 
 /* Slow-motion Zoom Container */
 .proj-image img {
-  transform-origin: 50% 65%;
-  transition: transform 5s, filter 3s ease-in-out;
-  filter: brightness(150%);
+  transition: transform 2s, filter 1.5s ease-in-out;
+  transform-origin: center center;
+  filter: brightness(50%);
 }
 
 /* The Transformation */
 .proj-image:hover img {
   filter: brightness(100%);
-  transform: scale(3);
+  transform: scale(1.3);
 }
 
 @media (min-width: 992px) {
