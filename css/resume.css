@@ -94,8 +94,8 @@ p.lead {
 }
 
 .proj-image{
-  height: 2rem;
-  width: 2rem;
+  height: 10rem;
+  width: 10rem;
 }
 
 @media (min-width: 992px) {
