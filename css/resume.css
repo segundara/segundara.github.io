@@ -98,7 +98,7 @@ p.lead {
   width: 15rem;
 }
 
-/* Slow-motion Zoom Container */
+/* Zoom Container */
 .proj-image img {
   transition: transform 2s, filter 1.5s ease-in-out;
   transform-origin: center center;
